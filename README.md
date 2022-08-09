@@ -1,6 +1,5 @@
 # Assignments of the OOP course - Fall 2021
 
-These assignments provide us a practice exposure and knowledge enhancement of the subjects we learned.
 
 # Assignment 1 
 ## Description:

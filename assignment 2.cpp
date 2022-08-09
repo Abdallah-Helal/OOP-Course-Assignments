@@ -1,7 +1,3 @@
-/*  S 3,4
-	Abdallah Emad 20200323
-	Mona Abdelaziz 20200561
-*/
 #include <iostream>
 using namespace std;
 
